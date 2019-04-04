@@ -1,0 +1,36 @@
+{
+		"CommonPage": {
+			"MediaPage": {
+				"AudioPage": {
+					"Name": "Audiopage",
+					"Region": "Ru",
+					"LengthMin": "5",
+					"Private": "False",
+					"Readable": "True"
+				},
+				"VideoPage": {
+					"Name": "Videopage",
+					"Region": "Ru",
+					"LengthMin": "7",
+					"Private": "False",
+					"Readable": "True"
+				}
+			},
+			"SocialPage": {
+				"GroupPage": {
+					"Name": "Grouppage",
+					"Region": "Ru",
+					"NumOfGroups": "10",
+					"Private": "True",
+					"Readable": "True"
+				},
+				"MessagesPage": {
+					"Name": "Messagespage",
+					"Region": "Ru",
+					"NumOfMessages": "250",
+					"Private": "True",
+					"Readable": "True"
+				}
+			}
+		}
+	}

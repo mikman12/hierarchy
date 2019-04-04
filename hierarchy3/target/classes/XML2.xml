@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommonPage>
+      <MediaPage>
+         <AudioPage>
+            <Name>Audiopage</Name>
+            <Region>Ru</Region>
+            <LengthMin>5</LengthMin>
+            <Private>False</Private>
+            <Readable>True</Readable>
+         </AudioPage>
+         <VideoPage>
+            <Name>Videopage</Name>
+            <Region>Ru</Region>
+            <LengthMin>7</LengthMin>
+            <Private>False</Private>
+            <Readable>True</Readable>
+         </VideoPage>
+      </MediaPage>
+      <SocialPage>
+         <GroupPage>
+            <Name>Grouppage</Name>
+            <Region>Ru</Region>
+            <NumOfGroups>10</NumOfGroups>
+            <Private>True</Private>
+            <Readable>True</Readable>
+         </GroupPage>
+         <MessagesPage>
+	    <Name>Messagespage</Name>
+            <Region>Ru</Region>
+            <NumOfMessages>250</NumOfMessages>
+            <Private>True</Private>
+            <Readable>True</Readable>
+         </MessagesPage>
+      </SocialPage>
+</CommonPage>
